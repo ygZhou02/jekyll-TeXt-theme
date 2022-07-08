@@ -1,6 +1,6 @@
 ---
 layout: article
-title: linear algebra: application in current calculation
+title: "linear algebra: application in current calculation"
 tags: TeXt
 article_header:
   type: cover
