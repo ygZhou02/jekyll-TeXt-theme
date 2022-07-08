@@ -1,8 +1,11 @@
 ---
 layout: article
 title: linear algebra: application in current calculation
-mathjax: true
-comment: true
+tags: TeXt
+article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg
 ---
 
 # Welcome
