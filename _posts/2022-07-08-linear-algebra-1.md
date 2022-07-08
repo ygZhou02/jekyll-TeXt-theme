@@ -1,6 +1,7 @@
 ---
 title: "linear algebra: application in current calculation"
 tags: TeXt
+layout: "article"
 article_header:
   type: cover
   image:

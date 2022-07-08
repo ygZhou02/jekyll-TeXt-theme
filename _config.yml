@@ -18,9 +18,9 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://www.baidu.com
+url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : ygZhou's Blog
+title   : Your Site Title
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -33,9 +33,9 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 
 ## => Author and Social
 ##############################
-author: ygZhou
-  type      : "person", "organization"
-  name      : yuguang zhou
+author:
+  type      : # "person" (default), "organization"
+  name      : Your Name
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
@@ -223,5 +223,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-theme: jekyll-theme-modernist
