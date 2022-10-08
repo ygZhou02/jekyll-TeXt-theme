@@ -91,7 +91,7 @@ $$
 
 Most interestingly, these two solutions occasionally  match two "short cuts"--①②③ and ③④⑤. Generally speaking, including "short cuts", each kind of undirected cycle will add a solution to the linear equations. But why does the "short cut" ①②④⑤ disappear? Because this "short cut" can be composed by ①②③ and ③④⑤-in another word, it's a combination of other solutions instead of a basic solution. 
 
-In a word, one more solution in the linear algebra equations, means one more undirected cycle in the current graph. Linear algebra can bring us a novel insight towards the laws in electricity and current. 
+In a nutshell, one more solution in the linear algebra equations, means one more undirected cycle in the current graph. Linear algebra can bring us a novel insight to rethink about the laws in electricity and current. 
 
 # References
 
