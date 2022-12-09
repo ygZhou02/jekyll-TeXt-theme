@@ -1,5 +1,5 @@
 ---
-title: "Markov_decision_process"
+title: "Monte_Carlo_simulation"
 tags: "Machine_Learning"
 layout: "article"
 article_header:
